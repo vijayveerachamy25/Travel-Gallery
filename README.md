@@ -1,2 +1,3 @@
 # WEPAPPLICATION
-HTML to BATABASE
+HTML to DATABASE
+Database application(mamp)
